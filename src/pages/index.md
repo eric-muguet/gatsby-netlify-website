@@ -2,15 +2,31 @@
 templateKey: index-page
 title: United Thinking
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: >-
+  United Thinking was founded in 2013 by Eric Muguet with the mission to promote
+  and make accessible IT best practices to the greatest possible number of
+  peoples.
+subheading: >-
+  United Thinking was founded in 2013 by Eric Muguet with the mission to promote
+  and make accessible IT best practices to the greatest possible number of
+  peoples.
 mainpitch:
   title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  description: >-
+
+    Our strategy to accomplish this mission is articulated around 3 axis:
+
+    The United Thinking™ Consulting Services where we helps you define,
+    implement and operate solutions that will give you a competitive business
+    advantage.
+
+    The United Thinking™ Articles where we share our experiences and provide
+    advices on IT best practices.
+
+    The United Thinking™ ALM Platform (available soon) where we help you put in
+    place collaborative workflows to promote information sharing and strong
+    collaboration between all the peoples involved in the definition,
+    implementation and operation of a business application.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
