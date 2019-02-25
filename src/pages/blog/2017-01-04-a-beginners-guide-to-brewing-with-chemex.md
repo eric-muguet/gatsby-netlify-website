@@ -7,7 +7,7 @@ description: >-
   help define business applications will help you increase the value you create
   with your applications.
 tags:
-  - personas
+  - ''
 ---
 I have been working almost half of my professional life in a web agency and the other half in enterprise IT and because of this I’m particularly interested in how practices used by web agencies can be used for enterprise IT and vice versa.
 
