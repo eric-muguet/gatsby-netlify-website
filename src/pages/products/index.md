@@ -10,7 +10,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/consulting_services___united_thinking-2.png
       text: >-
         We help you define projects that maximise business value and minimise
         risks.
