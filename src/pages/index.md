@@ -7,11 +7,8 @@ subheading: >-
   Founded in 2013 by Eric Muguet with the mission to promote and make accessible
   IT best practices to the greatest possible number of peoples.
 mainpitch:
-  title: Why Kaldi
+  title: 'Our strategy to accomplish this mission is articulated around 3 axis:'
   description: >-
-
-    Our strategy to accomplish this mission is articulated around 3 axis:
-
     The United Thinking™ Consulting Services where we helps you define,
     implement and operate solutions that will give you a competitive business
     advantage.
