@@ -2,11 +2,10 @@
 templateKey: index-page
 title: United Thinking
 image: /img/home-jumbotron.jpg
-heading: >-
-  United Thinking was founded in 2013 by Eric Muguet with the mission to promote
-  and make accessible IT best practices to the greatest possible number of
-  peoples.
-subheading: United Thinking
+heading: 'United Thinking '
+subheading: >-
+  Founded in 2013 by Eric Muguet with the mission to promote and make accessible
+  IT best practices to the greatest possible number of peoples.
 mainpitch:
   title: Why Kaldi
   description: >-
