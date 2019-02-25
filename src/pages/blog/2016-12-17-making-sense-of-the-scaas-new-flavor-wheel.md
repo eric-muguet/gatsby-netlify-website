@@ -8,7 +8,7 @@ description: >-
   years ago in the following article: The evolution of business applications
   architecture.
 tags:
-  - react
+  - ''
 ---
 The 6 criteria I used in selecting this reference architecture are the following:
 
