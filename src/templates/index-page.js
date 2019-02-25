@@ -48,17 +48,6 @@ export const IndexPageTemplate = ({
       >
         {title}
       </h1>
-      <h3 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-          style={{
-            boxShadow: 'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
-            color: 'white',
-            lineHeight: '1',
-            padding: '0.25em'
-          }}
-      >
-        {subheading}
-      </h3>
       </div>
     </div>
   <section className="section section--gradient">
@@ -67,14 +56,6 @@ export const IndexPageTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="content">
-              <div className="content">
-                <div className="tile">
-                  <h1 className="title">{mainpitch.title}</h1>
-                </div>
-                <div className="tile">
-                  <h3 className="subtitle">{mainpitch.description}</h3>
-                </div>
-              </div>
               <div className="columns">
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
